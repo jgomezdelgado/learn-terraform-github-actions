@@ -1,4 +1,4 @@
-# Desafio 8
+# Desafio 8 Terraform
 # Automate Terraform with GitHub Actions
 
 This repo is a companion repo to the [Automate Terraform with GitHub Actions tutorial](https://developer.hashicorp.com/terraform/tutorials/automation/github-actions).
